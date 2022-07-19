@@ -1,0 +1,5 @@
+marks in list of subjets
+co:25
+ss:19
+java:15
+ada:23
